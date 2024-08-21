@@ -17,7 +17,6 @@ wiki = "https://github.com/tqdm/tqdm/wiki"
 
 [project]
 name = "tqdm"
-dynamic = ["version"]
 version = "4.61.1"
 maintainers = [{ name = "tqdm developers", email = "devs@tqdm.ml" }]
 description = "Fast, Extensible Progress Meter"
