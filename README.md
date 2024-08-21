@@ -9,3 +9,7 @@ For more information on what vendoring is, check [this](https://stackoverflow.co
 The package name has been changed to `tqdm_vendored` to prevent against conflicts.
 
 Just make it simple.
+
+```
+pip install git+https://github.com/Windows81/Vendored-Tqdm
+```
